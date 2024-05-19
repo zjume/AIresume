@@ -1,0 +1,9 @@
+
+<!-- 信息输入页面的结构文件 -->
+<view class="info-form">
+  <input type="text" placeholder="专业" bindinput="inputProfession" />
+  <input type="text" placeholder="技能，用逗号分隔" bindinput="inputSkills" />
+  <input type="text" placeholder="求职方向" bindinput="inputJobDirection" />
+  <textarea placeholder="实习经历" bindinput="inputInternshipExperience"></textarea>
+  <button bindtap="submitInfo">提交信息</button>
+</view>

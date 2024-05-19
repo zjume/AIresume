@@ -1,0 +1,6 @@
+
+<!-- 用户信息展示界面的结构文件，用于展示用户昵称和头像。 -->
+<view class="user-profile">
+  <image class="user-avatar" src="{{avatarUrl}}" />
+  <text>{{nickname}}</text>
+</view>

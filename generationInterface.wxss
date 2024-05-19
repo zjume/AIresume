@@ -1,0 +1,7 @@
+
+/* 生成简历界面的样式文件 */
+.resume-generator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

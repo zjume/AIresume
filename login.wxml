@@ -1,0 +1,7 @@
+
+<!-- 登录页面的结构文件 -->
+<view class="container">
+  <input type="text" placeholder="请输入用户名" />
+  <input type="password" placeholder="请输入密码" />
+  <button bindtap="submitLogin">登录</button>
+</

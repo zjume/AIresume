@@ -1,0 +1,6 @@
+
+<!-- 展示已有简历的界面文件。 -->
+<view class="resume-display">
+  <text class="resume-content">{{resumeContent}}</text>
+</view>
+	

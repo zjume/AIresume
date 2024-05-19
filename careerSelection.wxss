@@ -1,0 +1,13 @@
+/* 定义了职业选择界面的样式，包括布局、颜色等样式设置。 */
+.career-list {
+  display: flex;
+  flex-direction: column;
+}
+.career-item {
+  padding: 10px;
+  margin: 5px;
+  background-color: #f0f0f0;
+}
+.career-item:active {
+  background-color: #ddd;
+}

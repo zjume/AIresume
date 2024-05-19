@@ -1,0 +1,9 @@
+
+/* 信息输入页面的样式文件 */
+.info-form {
+  display: flex;
+  flex-direction: column;
+}
+.info-form input, .info-form textarea {
+  margin-bottom: 10px;
+}

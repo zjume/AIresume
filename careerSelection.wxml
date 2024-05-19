@@ -1,0 +1,6 @@
+<!-- 定义了职业选择界面的结构，包括职位选项的展示。 -->
+<view class="career-list">
+  <view class="career-item" wx:for="{{careers}}" wx:key="index" data-career="{{item}}" bindtap="selectCareer">
+    {{item}}
+  </view>
+</view>

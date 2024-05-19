@@ -1,0 +1,6 @@
+
+<!-- 主菜单页面的结构文件 -->
+<view class="menu">
+  <button bindtap="navigateToInfoInput">填写简历信息</button>
+  <button bindtap="navigateToResumeDisplay">查看简历</button>
+</view>

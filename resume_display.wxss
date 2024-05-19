@@ -1,0 +1,8 @@
+/* 已有简历展示界面的样式文件 */
+.resume-display {
+  padding: 20px;
+  background-color: #fff;
+}
+.resume-content {
+  white-space: pre-wrap;
+}

@@ -1,0 +1,4 @@
+<!-- 生成简历界面的结构文件 -->
+<view class="resume-generator">
+  <button bindtap="generateResume">生成简历</button>
+</view>
